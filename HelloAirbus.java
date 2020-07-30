@@ -1,7 +1,7 @@
 //Scanner class is used to get input from the user.
 import java.util.Scanner;
 
-public class HelloAirbus {
+public class convertor {
     public static void main(String[] args) {
     	
      Scanner scan=new Scanner(System.in);
